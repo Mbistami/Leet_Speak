@@ -1,0 +1,7 @@
+C:\Users\R_230_ROG\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\Leet_Speak.exe.config
+C:\Users\R_230_ROG\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\Leet_Speak.exe
+C:\Users\R_230_ROG\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\Leet_Speak.pdb
+C:\Users\R_230_ROG\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\Leet_Speak.csprojAssemblyReference.cache
+C:\Users\R_230_ROG\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\Leet_Speak.csproj.CoreCompileInputs.cache
+C:\Users\R_230_ROG\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\Leet_Speak.exe
+C:\Users\R_230_ROG\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\Leet_Speak.pdb
